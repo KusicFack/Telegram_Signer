@@ -1,0 +1,4 @@
+# python_version == 3.12.10
+cryptg
+telethon
+python-socks[asyncio]
